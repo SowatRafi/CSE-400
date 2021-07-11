@@ -1,2 +1,2 @@
 # CSE-400
-This repository is for our thesis work.
+An Effective Segmentation Technique for Volumetric Medical Images Using 3D Tile Convolution Neural Network.
