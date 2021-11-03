@@ -3,3 +3,5 @@
 *.zip
 *.nii.gz
 *.ipynb_checkpoints/
+BraTS2020 Dataset/
+U-Net Segmentation/BraTS2020_TrainingData/
