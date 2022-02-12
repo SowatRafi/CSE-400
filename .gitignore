@@ -2,3 +2,8 @@
 *.rar
 *.zip
 *.nii.gz
+*.ipynb_checkpoints/
+__pycache__/
+BraTS2020 Dataset/
+U-Net Segmentation/BraTS2020_TrainingData/
+U-Net Segmentation/3D U-Net 100 Epoches with ROG Strix Gaming 3060Ti/
