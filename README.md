@@ -1,2 +1,2 @@
 # CSE-400
-An Effective Segmentation Technique for Volumetric Medical Images Using 3D Tile Convolution Neural Network.
+Lossless Segmentation of Brain Tumors from MRI Images using 3D U-Net 
