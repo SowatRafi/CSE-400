@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
+# In[1]:
 
 
 from keras.models import Model
@@ -10,13 +10,13 @@ from tensorflow.keras.optimizers import Adam
 from keras.metrics import MeanIoU
 
 
-# In[3]:
+# In[2]:
 
 
 kernel_initializer =  'he_uniform'
 
 
-# In[4]:
+# In[3]:
 
 
 def simple_unet_model(IMG_HEIGHT, IMG_WIDTH, IMG_DEPTH, IMG_CHANNELS, num_classes):
@@ -84,7 +84,7 @@ def simple_unet_model(IMG_HEIGHT, IMG_WIDTH, IMG_DEPTH, IMG_CHANNELS, num_classe
     return model
 
 
-# In[5]:
+# In[4]:
 
 
 model = simple_unet_model(128, 128, 128, 3, 4)
