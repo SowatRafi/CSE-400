@@ -27,7 +27,7 @@ def load_img(img_dir, img_list):
 # In[3]:
 
 
-def imageLoader(img_dir, img_list, mask_dir, mask_list, batch_size):
+def imageloader(img_dir, img_list, mask_dir, mask_list, batch_size):
 
     length = len(img_list)
 
@@ -74,7 +74,7 @@ batch_size = 2
 # In[7]:
 
 
-train_img_datagen = imageLoader(train_img_dir, train_img_list, train_mask_dir, train_mask_list, batch_size)
+train_img_datagen = imageloader(train_img_dir, train_img_list, train_mask_dir, train_mask_list, batch_size)
 
 
 # In[8]:
