@@ -1,5 +1,7 @@
 # Lossless Segmentation of Brain Tumors from MRI Images using 3D U-Net 
 
+###### [IEEE Paper Link](https://ieeexplore.ieee.org/document/10089263/keywords#keywords)
+
 ##### System's Minimum Requiremnts:
    1. 8 GB RAM
    2. Core i5 processor
